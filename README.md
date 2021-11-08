@@ -31,8 +31,6 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 
 <img src="https://media.giphy.com/media/CMN0HyQdB8TRJkxazt/giphy.gif" width="300">
 
-<br/>
-
 - ⚡️ Fun-Facts I always say "Hey hey" to salute someone and yeah, that's me on the gif up there.
 - 💻 I’m "currently working" on a nice [Flutter Starter](https://github.com/t1gu1/flutter-starter) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Flutter in depth :)
