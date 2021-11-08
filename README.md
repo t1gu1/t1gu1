@@ -21,8 +21,6 @@ Currently working as a Web/App developer 🔭 at [Radio-canada](https://radio-ca
   <img align="left" alt="T1Gu1 Leetcode" width="22px" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" />
 </a> -->
 
-<br/>
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little about me...
 
 My favorite programming language of the moment is [Flutter](https://flutter.dev)⚡.
