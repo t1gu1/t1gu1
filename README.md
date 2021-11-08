@@ -47,10 +47,11 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 
 <br/>
 
-## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Top Repositories
+## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Favorite Repositories
 
-[![Liquid Swipe Card](https://github-readme-stats.vercel.app/api/pin/?username=t1gu1&show_owner=true&repo=flutter-starter&theme=darcula)](https://github.com/iamSahdeep/liquid_swipe_flutter)
-[![Fu Uber Card](https://github-readme-stats.vercel.app/api/pin/?username=t1gu1&show_owner=true&repo=react-streamelements&theme=darcula)](https://github.com/iamSahdeep/fu_uber)
+[![Liquid Swipe Card](https://github-readme-stats.vercel.app/api/pin/?username=t1gu1&show_owner=true&repo=flutter-starter&theme=darcula)](https://github.com/t1gu1/flutter-starter)
+
+[![Fu Uber Card](https://github-readme-stats.vercel.app/api/pin/?username=t1gu1&show_owner=true&repo=react-streamelements&theme=darcula)](https://github.com/t1gu1/react-streamelements)
 
 <br/>
 
