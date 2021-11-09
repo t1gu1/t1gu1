@@ -23,7 +23,7 @@ Currently working as a Web/App developer 🔭 at [Radio-canada](https://radio-ca
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little about me...
 
-My favorite programming language of the moment is [Flutter](https://flutter.dev)⚡.
+My favorite programming language of the moment is [Flutter](https://flutter.dev)⚡. (I love always learning new things!)
 
 Developer by profession, Gamer by Hobby, usually love to explore try things in my Free Time as I'm a **Tech Enthusiasm**! :)
 
