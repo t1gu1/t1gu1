@@ -1,6 +1,6 @@
 # Hey hey 👋, I'm T1Gu1! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Currently working as a Web/App developer 🔭 at [Radio-canada](https://radio-canada.ca). I love to convert Art of Design into Art of Code.
+Currently working as a Full Stack developer 🔭 at [Radio-canada](https://radio-canada.ca). I love to convert Art of Design into Art of Code.
 
 <!-- <a href="https://twitter.com/t1gu1">
   <img align="left" alt="T1Gu1 Twitter" width="22px" src="https://img.icons8.com/dusk/64/000000/twitter.png" />
@@ -36,7 +36,7 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 - 💻 I work a lot with `React/next.js`, `react-native` `vue/nuxt.js` & `node.js` in my general professional occupation.
 - 💬 Ask me about anything, I am happy to help
 
-  <!-- - 👋 Hope you do well and don't hesitate to talk with me -->
+  👋 Hope you do well and don't hesitate to talk with me if you have any question
 
 <br/>
 
