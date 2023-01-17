@@ -30,14 +30,13 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 <img src="https://media.giphy.com/media/CMN0HyQdB8TRJkxazt/giphy.gif" width="300">
 
 - ⚡️ Fun-Facts I always say "Hey hey" to salute someone and yeah, that's me on the gif up there.
-- 💻 I’m "currently working" on a nice [Flutter Starter](https://github.com/t1gu1/flutter-starter) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning Flutter in depth :)
+- 💻 I’m "currently working" on a nice personal project using Tamagui that use React-native and nextJS in a monorepo sharing screens.
+- 🌱 I’m currently learning Flutter :)
 - ⚙️ I use daily: `.dart`, `.js`, `.ts`, `.jsx`, `.scss`, `stylus`, `.psd`
 - 💻 I work a lot with `React/next.js`, `react-native` `vue/nuxt.js` & `node.js` in my general professional occupation.
 - 💬 Ask me about anything, I am happy to help
 
-  <!-- - 👋 You can find me with @T1Gu1 at almost every social platform. -->
-  <!-- - 📝 [My Resume](https://docs.google.com/document/d/) -->
+  <!-- - 👋 Hope you do well and don't hesitate to talk with me -->
 
 <br/>
 
