@@ -44,6 +44,8 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 
   👋 Hope you do well and don't hesitate to talk with me if you have any question
 
+---
+
 By the way there is my blog, take a look <https://www.adevjourney.wtf/>
 
 <br/>
