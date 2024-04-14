@@ -40,6 +40,7 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 - 🌱 I’m currently learning Flutter :)
 - ⚙️ I use daily: `.dart`, `.js`, `.ts`, `.jsx`, `.scss`, `stylus`, `tailwind`, `astro`, `.psd`
 - 💻 I work a lot with `React/next.js`, `react-native` `vue/nuxt.js` & `node.js` in my general professional occupation.
+- 🎨 I'm not a UI/UX designer by profession, but after all my years of experience, i'm kind of.
 - 💬 Ask me about anything, I am happy to help
 
   👋 Hope you do well and don't hesitate to talk with me if you have any question
