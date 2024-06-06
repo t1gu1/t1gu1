@@ -1,8 +1,8 @@
 # Hey hey 👋, I'm T1Gu1! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Currently working as a Full Stack developer 🔭 at [Radio-canada](https://radio-canada.ca). I love to convert Art of Design into Art of Code.
-
 <a href="https://buymeacoffee.com/t1gu1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=t1gu1&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+Currently working as a Full Stack developer 🔭 at [Radio-canada](https://radio-canada.ca). I love to convert Art of Design into Art of Code.
 
 <!-- <a href="https://twitter.com/t1gu1">
   <img align="left" alt="T1Gu1 Twitter" width="22px" src="https://img.icons8.com/dusk/64/000000/twitter.png" />
