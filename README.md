@@ -27,9 +27,10 @@ Currently working as a Full Stack developer 🔭 at [Radio-canada](https://radio
 
 ### Always love learning new things!
 
-- My favorite programming language of the moment was dart/[Flutter](https://flutter.dev)⚡, not so long ago.
+- My favorite programming language is javascript/typescript
 - Recently I learn a lot of Godot and they gdscript. (Looks a lot like Python)
 - At the moment i'm a lot in the `nvim` world and learning more about `.lua`. (I love so much the Vim motions)
+- Also, i'm a pro of react-native and make it works multiplatform!
 
 ---
 
@@ -38,10 +39,10 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 <img src="https://media.giphy.com/media/CMN0HyQdB8TRJkxazt/giphy.gif" width="300">
 
 - ⚡️ Fun-Facts I always say "Hey hey" to salute someone and yeah, that's me on the gif up there.
-- 💻 I’m "currently working" on a nice personal project using Tamagui that use React-native and nextJS in a monorepo sharing screens.
-- 🌱 I’m currently learning Flutter :)
-- ⚙️ I use daily: `.dart`, `.js`, `.ts`, `.jsx`, `.scss`, `stylus`, `tailwind`, `astro`, `.psd`
-- 💻 I work a lot with `React/next.js`, `react-native` `vue/nuxt.js` & `node.js` in my general professional occupation.
+- 💻 I’m "currently working" on a nice personal project using NativeWind that use React-native and Expo.
+- 🌱 I’m currently making a nice tournament app and develloping a multiplayer game :)
+- ⚙️ I use daily: `.ts`, `.tsx`, `tailwind`, `astro`, `.lua` (And many many more, but these my favorites)
+- 💻 I work a lot with `React/next.js`, `react-native` `vue/nuxt.js`, `node.js` & `nest.js` in my general professional occupation.
 - 🎨 I'm not a UI/UX designer by profession, but after all my years of experience, i'm kind of.
 - 💬 Ask me about anything, I am happy to help
 
