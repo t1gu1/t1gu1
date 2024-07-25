@@ -39,10 +39,10 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 <img src="https://media.giphy.com/media/CMN0HyQdB8TRJkxazt/giphy.gif" width="300">
 
 - ⚡️ Fun-Facts I always say "Hey hey" to salute someone and yeah, that's me on the gif up there.
-- 💻 I’m "currently working" on a nice personal project using NativeWind that use React-native and Expo.
+- 💻 I’m "currently working" on a nice personal project using a NativeWind like approach(But custom) that use React-native and Expo.
 - 🌱 I’m currently making a nice tournament app and develloping a multiplayer game :)
 - ⚙️ I use daily: `.ts`, `.tsx`, `tailwind`, `astro`, `.lua` (And many many more, but these my favorites)
-- 💻 I work a lot with `React/next.js`, `react-native` `vue/nuxt.js`, `node.js` & `nest.js` in my general professional occupation.
+- 💻 I work a lot with `React/next.js`, `react-native/expo`, `node.js` & `nest.js` in my general professional occupation.
 - 🎨 I'm not a UI/UX designer by profession, but after all my years of experience, i'm kind of.
 - 💬 Ask me about anything, I am happy to help
 
