@@ -1,7 +1,5 @@
 # Hey hey 👋, I'm T1Gu1! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Here an AI Blog that i made to see news of things i love to follow and know more: <https://adevjourney.wtf/en/>
-
 Currently working as a Full Stack developer 🔭 at [Radio-canada](https://radio-canada.ca).
 
 <!-- <a href="https://twitter.com/t1gu1">
@@ -50,6 +48,6 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 
 ---
 
-By the way there is my blog, take a look <https://www.adevjourney.wtf/>
+By the way this is my AI blog to keep me inform about things. Take a look: <https://adevjourney.wtf/en>
 
 <br/>
