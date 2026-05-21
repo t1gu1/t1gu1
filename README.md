@@ -47,7 +47,7 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 - 💻 I work a lot with `React/next.js`, `react-native/expo`, `node.js` & `nest.js` in my general professional occupation.
 - 💬 Ask me about anything, I am happy to help
 
-  👋 Hope you do well and don't hesitate to talk with me if you have any question
+👋 Hope you do well and don't hesitate to talk with me if you have any question
 
 ---
 
