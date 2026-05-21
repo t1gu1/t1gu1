@@ -1,5 +1,7 @@
 # Hey hey 👋, I'm T1Gu1! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+I'm from Canada / Quebec in/near Montreal and my native language is french
+
 Currently working as a Full Stack developer 🔭 at [Radio-canada](https://radio-canada.ca).
 
 <!-- <a href="https://twitter.com/t1gu1">
