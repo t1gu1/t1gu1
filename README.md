@@ -16,7 +16,7 @@ Currently working as a Full Stack developer 🔭 at [Radio-canada](https://radio
 <a href="https://www.instagram.com/t1gu1/">
   <img align="left" alt="T1Gu1 Instagram" width="22px" src="https://img.icons8.com/dusk/64/000000/instagram-new.png" />
 </a>
-<a href="https://www.reddit.com/user/t1gu1/">
+<a href="https://www.reddit.com/user/t1gu1/">  
   <img align="left" alt="T1Gu1 Reddit" width="22px" src="https://img.icons8.com/dusk/64/000000/reddit.png" />
 </a>
 <a href="https://facebook.com/t1gu1/">
@@ -27,10 +27,11 @@ Currently working as a Full Stack developer 🔭 at [Radio-canada](https://radio
 
 ### Always love learning new things!
 
-- My favorite programming language is javascript/typescript
-- Recently I learn a lot of Godot and they gdscript. (Looks a lot like Python)
-- At the moment i'm a lot in the `nvim` world and learning more about `.lua`. (I love so much the Vim motions)
-- Also, i'm a pro of react-native and make it works multiplatform!
+- My favorite programming language is javascript/typescript.
+- At the moment i'm a lot in the `nvim` world. (I love so much the Vim motions)
+- I'm currently do a lot of `.lua` cause i develop a game in that language with the `love2D` "framework".
+- I did a bit of Godot and they gdscript. (Looks a lot like Python)
+- Also, i'm a pro of react-native & web/app devellopement making them works multiplatform!
 
 ---
 
@@ -39,11 +40,11 @@ Developer by profession, Gamer by Hobby, usually love to explore try things in m
 <img src="https://media.giphy.com/media/CMN0HyQdB8TRJkxazt/giphy.gif" width="300">
 
 - ⚡️ Fun-Facts I always say "Hey hey" to salute someone and yeah, that's me on the gif up there.
-- 💻 I’m "currently working" on a nice personal project using a NativeWind like approach(But custom) that use React-native and Expo.
-- 🌱 I’m currently making a nice tournament app and develloping a multiplayer game :)
-- ⚙️ I use daily: `.ts`, `.tsx`, `tailwind`, `astro`, `.lua` (And many many more, but these my favorites)
+- 🎨 I'm not a UI/UX designer by profession, but after all my years of experience, i'm kind of!
+- 💻 I’m "currently working" on a nice personal project. A little online 2d pixel art game!
+- 🌱 I may develop a nice tournament app to fit with my multiplayer game :)
+- ⚙️ I use daily: `.ts`, `.tsx`, `.lua`, `tailwind`, `astro` (And many many more, but these my favorites)
 - 💻 I work a lot with `React/next.js`, `react-native/expo`, `node.js` & `nest.js` in my general professional occupation.
-- 🎨 I'm not a UI/UX designer by profession, but after all my years of experience, i'm kind of.
 - 💬 Ask me about anything, I am happy to help
 
   👋 Hope you do well and don't hesitate to talk with me if you have any question
